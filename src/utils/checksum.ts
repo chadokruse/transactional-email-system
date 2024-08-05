@@ -1,0 +1,1 @@
+// Calculate the base64-encoded MD5 checksum
